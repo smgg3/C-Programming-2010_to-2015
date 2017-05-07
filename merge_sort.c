@@ -1,7 +1,4 @@
 /*
-AUTHOR:K.PRAKASH
-ID    :N090488
-CLASS :CSE-02
 OBJECTIVE:To write a program for mergesort algorithm
 */
 #include<stdio.h>
